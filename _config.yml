@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Personal Website for Yu Kan - Yu (Rain) Kan # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Yu
 middle_name: Rain 
 last_name: Kan

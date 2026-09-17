@@ -9,7 +9,7 @@ profile:
   image: ZZZ06846-2-small.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>HH 4100</p>
+    <p>HH 4142</p>
     <p>1309 E 10th St,</p>
     <p>Bloomington, IN 47405</p>
 
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yu (Rain) Kan (阚雨 in Chinese, pronounced "Kahn Yoo") is an Assistant Professor in the [Department of Operations & Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.html) at the [Kelley School of Business](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=RAINKAN), Indiana University. Her research examines the design and management of digital platforms and AI-enabled services in e-commerce and healthcare, with an emphasis on their economic implications and potential to promote inclusivity and well-being.
+Yu (Rain) Kan (阚雨 in Chinese, pronounced "Kahn Yoo") is an Assistant Professor in the Department of Operations & Decision Technologies at the Kelley School of Business, Indiana University. Her research examines the design and management of digital platforms and AI-enabled services in e-commerce and healthcare, with an emphasis on their economic implications and potential to promote inclusivity and well-being.
 
 She holds a Ph.D. in Information Systems from the Michael G. Foster School of Business, University of Washington, as well as an M.S. in Analytics from the Georgia Institute of Technology and a B.A. in German Linguistics from Peking University.
 

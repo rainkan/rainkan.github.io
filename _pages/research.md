@@ -37,6 +37,6 @@ nav_order: 2
   Mingrui (Ray) Zhang\*, Yu (Rain) Kan\*, Wenkang Qiu, Fengwen Chen, Yong Tan
   *Management Science* under major revision.
 
-- [Sustaining Value Creation in Online Weightloss Platforms: A Service Ecosystem Perspective]  
+- Sustaining Value Creation in Online Weightloss Platforms: A Service Ecosystem Perspective  
   Yu (Rain) Kan, Lu (Lucy) Yan, Yong Tan
   *Production and Operations Management* under review.

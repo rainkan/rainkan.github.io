@@ -11,12 +11,12 @@ nav_order: 2
 
 - ["Be the Buyer" — Leveraging the Wisdom of the Crowd in E-Commerce Operations](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.01928)  
   Leela Nageswaran\*, Yu (Rain) Kan\*, Uttara M. Ananthakrishnan\*  \
-  ***Management Science*** (2025), 72(7), 5635–5652.
+  **_Management Science_** (2025), 72(7), 5635–5652.
   - JFIG Best Paper Competition - Finalist, INFORMS
 
 - [One Size Fits All? Informational Accessibility andInclusivity in Online Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4844630)  
   Yu (Rain) Kan\*, Ye Liu\*, Uttara M. Ananthakrishnan, Yong Tan \
-  ***Management Science***, forthcoming.  
+  **_Management Science_**, forthcoming.  
 
 ### Selected Working Papers
 
